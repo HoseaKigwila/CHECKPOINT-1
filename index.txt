@@ -17,7 +17,7 @@ python
 python3 play.py
 
 5) What can we use to save a value for later use in our code? Provide an example.
-
+Variabels. Black_music = "HipHop"
 
 6) What can I do to prevent certain files and directories from being tracked by git?
 
