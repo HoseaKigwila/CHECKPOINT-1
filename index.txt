@@ -2,6 +2,11 @@
 its a set of text not to be seen by the user. 
 
 2) Demonstrate at least 2 ways to create a comment. One should be for multiple lines.
+<!-- Write your comments here -->
+<!--   
+    Sample multiline comment that can span
+    across multiple lines within the html doc.
+-->
 
 
 
