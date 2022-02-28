@@ -35,7 +35,8 @@ def my_function():
 =
 
 9) What's the key difference between git revert and git reset?
-
+git revert reverses data with the data still in the log
+git reset  reverses data with the data no longer in the log
 
 10) What's the key difference between Python lists and tuples?
 
