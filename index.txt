@@ -39,7 +39,7 @@ git revert reverses data with the data still in the log
 git reset  reverses data with the data no longer in the log
 
 10) What's the key difference between Python lists and tuples?
-
+    you can change the values in the list and tuples you cant change them  
 
 11) What can I do to know where I am within my file system?
 
