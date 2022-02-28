@@ -1,5 +1,5 @@
 1) What are comments?
-
+its a set of text not to be seen by the user. 
 
 2) Demonstrate at least 2 ways to create a comment. One should be for multiple lines.
 
