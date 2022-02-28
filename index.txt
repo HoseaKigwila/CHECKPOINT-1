@@ -42,7 +42,7 @@ git reset  reverses data with the data no longer in the log
     you can change the values in the list and tuples you cant change them  
 
 11) What can I do to know where I am within my file system?
-
+type pwd on command line
 
 12) Describe the anatomy of a Python dictionary and create one below.
 
